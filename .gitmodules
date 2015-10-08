@@ -1,0 +1,3 @@
+[submodule "WPFMineCraftServerRCON.core"]
+	path = WPFMineCraftServerRCON.core
+	url = https://github.com/ShineSmile/WPFMineCraftServerRCON.core.git
