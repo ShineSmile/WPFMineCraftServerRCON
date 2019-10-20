@@ -1,3 +1,6 @@
 [submodule "WPFMineCraftServerRCON.core"]
 	path = WPFMineCraftServerRCON.core
 	url = https://github.com/ShineSmile/WPFMineCraftServerRCON.core.git
+[submodule "MineCraftServerRCON"]
+	path = MineCraftServerRCON
+	url = ./MineCraftServerRCON
